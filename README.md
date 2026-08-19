@@ -37,7 +37,7 @@ The framework mappings are **indicative working mappings**, the kind a GRC analy
 
 I'm Al Amin Bashir Afara, I spent seven years in IT (systems administration, infrastructure, and support) before completing a BSc in Computer Science, and I'm now focused on cloud operations, GRC, and FinOps on AWS. I'm open to remote roles in those fields.
 
-GitHub: https://github.com/aminafara123 · Email: aminafara123@gmail.com
+GitHub: https://github.com/aminafara123 · LinkedIn: https://www.linkedin.com/in/aminafara · Email: aminafara123@gmail.com
 
 ## License
 
